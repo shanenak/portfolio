@@ -1,7 +1,5 @@
 # Shannon Millar
 
-Lovely to meet you! Thanks for stopping by.
-
 Please visit the live site [here](https://shanenak.github.io/portfolio/).
 
 ### Contact
